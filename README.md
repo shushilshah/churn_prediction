@@ -1,5 +1,8 @@
 Project: Bank customer churn prediction
 
+Problem Statement:
+The dataset is given with the objective to find whether the customer within the bank will left or not.The leaving number of customer of any bank denotes the bad review of bank in most of the cases. The customer contains number of characteritics like credit score, country of residence, gender, balance in their account, member active or not.
+
 Project's Workflow:
 
 1. Data collection:
